@@ -1,2 +1,19 @@
-18. nil
+18. 
+
+Hello world
+
+=> nil
+
+21. 
+
+irb helloWorld.rb devuelve:
+
+Hello world
+
+=> nil
+
+ruby helloWorld.rb devuelve:
+
+Hello world
+
 
